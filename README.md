@@ -1,2 +1,3 @@
 # HotelManageSystem
  Database stage works
+大家好这个系统是我在刚学完mysql这阶段时所完成的作品，我是用JDBC连接的数据库，用JUI写的前端页面请大家多多批评指教我的问题
